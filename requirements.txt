@@ -3,3 +3,4 @@ django-argonauts==1.2.0
 python-u2flib-server==5.0.0
 django-debug-toolbar==3.6.0
 whitenoise==6.2.0
+gunicorn==19.9.0
